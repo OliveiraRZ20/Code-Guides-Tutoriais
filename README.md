@@ -79,5 +79,25 @@ Aqui nós teremos alguns bons arquivos com praticamente **TUDO** sobre python, s
   - Funções de gráficos como: joinplot, lmplot, kdeplot, distplot, rugplot, boxplot
 
 - Arquivo 9: Sqlite3 (Linguagem SQL)
-  - A ser desenvolvido
+  - Utilização da biblioteca: pandas
+  - Funções de SQL como: connect, cursor, execute, fetchall
+  - Utilização de funções da lingugagem SQL
+  - Criação de Query's para extração de informações
+  - Tratamento dos dados retirados das Query's para utilização com Pandas
+
+- Arquivo 10: StatsModels
+  - Utilização das bibliotecas: Pandas, Matplotlib e Seaborn
+  - Funções do StatsModels como: add_constant, OLS, fit, corr
+  - Aprofundamento na análise de tabelas pandas
+  - Aprendizado sobre análise exploratória em tabelas pandas
+  - Gerenciamento de um problema de negócio
+
+- Arquivo 11: Scikit Learn
+  - Utilização das bibliotecas: Numpy, Pandas, Matplotlib e Seaborn
+  - Funções do Scikit Learn como: LinearRegression, fit, score, intercept_, coef_, predict
+  - Aprendizado sobre previsão de uma variável a partir de um problema de negócio
+  - Treinamento de um bot de previsão de salário com base em tempo de estudo
+
+- Arquivo 12: Séries Temporais:
+  - A ser desenvolvido...
 
