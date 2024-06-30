@@ -1,0 +1,3 @@
+Olá, eu sou Lucca oliveira e estou produzindo varios arquivos de Jupyter Notebook para ensinar python para algum curioso que entrar no meu GitHub
+Isso aqui foi adicionado usando python eu adoro programar
+Python aprendeu a escrever, olha só!!!
