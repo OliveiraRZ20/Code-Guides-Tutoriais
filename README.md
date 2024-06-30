@@ -1,6 +1,7 @@
 <h1>CodeGUIDES: Tutoriais</h1>
 
 DISCLAIMER: EXTREMAMENTE RECOMENDADO BAIXAR OS ARQUIVOS .IPYNB POIS É DE MELHOR VISUALIZAÇÃO NO SEU COMPUTADOR
+
 Olá, aqui estão os arquivos chamados CodeGUIDES, que são nada mais nada menos do que anotações feitas 
 por mim mesmo para poder lembrar de todas as funções que a linguagem python tem a me oferecer na criação de códigos
 
